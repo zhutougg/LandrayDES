@@ -12,7 +12,7 @@
 
 * 使用方法
 
-![image-20201221143522574](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20201221143522574.png)
+![image-20201221143522574](.\image-20201221143522574.png)
 
 * 环境配置
 
